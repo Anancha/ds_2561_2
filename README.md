@@ -1,5 +1,4 @@
-# ds_2561_2
-Data Science (Acad Year: 2561, Semester: 2nd)
+# Data Science (Acad Year: 2561, Semester: 2nd)
 
 สื่อการสอน Python for Data Science บน YouTube:  
 - [ไพธอน Python เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GEoKcXJ-C5NrywxpvATaoG1)
