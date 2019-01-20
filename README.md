@@ -5,6 +5,7 @@
   * [cheat sheet](https://datacamp-community-prod.s3.amazonaws.com/e30fbcd9-f595-4a9f-803d-05ca5bf84612)
 - [Jupyter Notebook](https://www.youtube.com/playlist?list=PLoTScYm9O0GErrygsfQtDtBT4CloRkiDx)
   * [cheat sheet](https://datacamp-community-prod.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40)
+  * [markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Jupyter Lab](https://www.youtube.com/playlist?list=PLoTScYm9O0GEour5CiwfSnoutg3RyA76O)
 - [Pandas](https://www.youtube.com/playlist?list=PLoTScYm9O0GGsOHPCeufxCLt-uGU5Rsuj)
   * [cheat sheet: basic 1](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
