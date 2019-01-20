@@ -20,7 +20,7 @@
   * [Explore data](https://www.youtube.com/playlist?list=PLoTScYm9O0GFDieI-AsqCva5FmjhBi4AL)
   * [Visualize data](https://www.youtube.com/playlist?list=PLoTScYm9O0GGGjBZjzw7p0H2ZW0RiD4Fk)
   * [Clean data](https://www.youtube.com/playlist?list=PLoTScYm9O0GGy2PPCMxVb62bUJXqsY-DL)
- 
+    * [Regular expression cheat sheet](https://github.com/prasertcbs/cheatsheet/blob/master/regular-expressions-cheat-sheet-v2.pdf)
 - [Seaborn](https://www.youtube.com/playlist?list=PLoTScYm9O0GGC9QvLlrQGvMYatTjnOUwR)
   * [cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
 - [Numpy](https://www.youtube.com/playlist?list=PLoTScYm9O0GFNEpzsCBEnkUwgAwOu_PWw)
