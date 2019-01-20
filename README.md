@@ -19,5 +19,5 @@
   * [cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 - [การใช้ git และ github](https://www.youtube.com/playlist?list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
   * [cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-- [Azure ML Notebook]
+- [Azure ML Notebook](https://www.youtube.com/playlist?list=PLoTScYm9O0GHQcUjdcmFydCVmd5MIOLc1)
   * [algorithm](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet)
