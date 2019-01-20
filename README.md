@@ -13,7 +13,7 @@
     * [cheat sheet: basic 2](https://www.dataquest.io/blog/large_files/pandas-cheat-sheet.pdf)
     * [cheat sheet: import data](https://datacamp-community-prod.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef)
     * [cheat sheet: data wrangling](https://datacamp-community-prod.s3.amazonaws.com/9f0f2ae1-8bd8-4302-a67b-e17f3059d9e8)
-  * [What is panda?](https://youtu.be/W661Zy939Q0)
+  * [What is pandas?](https://youtu.be/W661Zy939Q0)
   * [Series](https://youtu.be/dX6COdB7yRo)
   * [DataFrame](https://youtu.be/NrcAJFJo1R4)
   * [Read data](https://www.youtube.com/playlist?list=PLoTScYm9O0GGmynH3uSzUhvcUlo8qK1t1)
