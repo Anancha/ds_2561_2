@@ -8,10 +8,12 @@
   * [markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Jupyter Lab](https://www.youtube.com/playlist?list=PLoTScYm9O0GEour5CiwfSnoutg3RyA76O)
 - [Pandas](https://www.youtube.com/playlist?list=PLoTScYm9O0GGsOHPCeufxCLt-uGU5Rsuj)
-  * [cheat sheet: basic 1](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-  * [cheat sheet: basic 2](https://www.dataquest.io/blog/large_files/pandas-cheat-sheet.pdf)
-  * [cheat sheet: import data](https://datacamp-community-prod.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef)
-  * [cheat sheet: data wrangling](https://datacamp-community-prod.s3.amazonaws.com/9f0f2ae1-8bd8-4302-a67b-e17f3059d9e8)
+  * **cheat sheet**
+   * [cheat sheet: basic 1](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+   * [cheat sheet: basic 2](https://www.dataquest.io/blog/large_files/pandas-cheat-sheet.pdf)
+   * [cheat sheet: import data](https://datacamp-community-prod.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef)
+   * [cheat sheet: data wrangling](https://datacamp-community-prod.s3.amazonaws.com/9f0f2ae1-8bd8-4302-a67b-e17f3059d9e8)
+ 
 - [Seaborn](https://www.youtube.com/playlist?list=PLoTScYm9O0GGC9QvLlrQGvMYatTjnOUwR)
   * [cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
 - [Numpy](https://www.youtube.com/playlist?list=PLoTScYm9O0GFNEpzsCBEnkUwgAwOu_PWw)
