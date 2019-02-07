@@ -29,6 +29,8 @@
   * [cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
 - [การใช้ git และ github](https://www.youtube.com/playlist?list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
   * [cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- Machine learning
+  * [100 days of ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [Azure ML Notebook](https://www.youtube.com/playlist?list=PLoTScYm9O0GHQcUjdcmFydCVmd5MIOLc1)
   * [Microsoft Azure Essentials Azure Machine Learning e-book](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi-zomkp_vfAhWE6Y8KHYTiAG0QFjAAegQIChAC&url=https%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F0%2F9%2F6%2F096170E9-23A2-4DA6-89F5-7F5079CB53AB%2F9780735698178.pdf&usg=AOvVaw3SgdrlHQ7x6iK5b3QVqS2X)
   * [algorithm](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet)
